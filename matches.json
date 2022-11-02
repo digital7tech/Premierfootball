@@ -1,58 +1,176 @@
-{
-	"hits": [
-		
-	
-		
-		
-		
-		
 
-		
-		
-		
-		
-		
-		
-	
+{ 
+ "hits" : [
+
+
 		{
 
 
-			"user": "Salzburg vs Chelsea SD",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-552917.m3u8?auth_key=1667417839-0-0-73fe9336331a1b4445a0141cef309664",
+			"user": "Real Madrid vs Celtic SD",
+			"pageUrl": "http://www.techsolpoint.com/fetch-json-data-using-volley-library-and-display-it-in-recyclerview%E2%80%8A-android-studio.html",
 			"type": "UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://i.pinimg.com/736x/6b/34/c7/6b34c71b11b9f2e04957577ff85e524b.jpg"
 		},
-		
-	
-		{
+	 {
 
 
-			"user": "Salzburg vs Chelsea HD",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-284564.m3u8?auth_key=1667417899-0-0-03b577b2584c610db8158847688d3598",
+			"user": "Real Madrid vs Celtic HD",
+			"pageUrl": "http://www.techsolpoint.com/fetch-json-data-using-volley-library-and-display-it-in-recyclerview%E2%80%8A-android-studio.html",
 			"type": "UEFA Champions League ⚽️ ",
-			"webFormatUrl": "https://1.bp.blogspot.com/-aqbEPSi6fBs/YQlhDOFZRYI/AAAAAAADKdo/C7YepMYAQcMzC2vwW-r8i5n2mLIQosXWACNcBGAsYHQ/s1000/uefa-champions.league-21-22-logo%2B%25282%2529.jpg"
+			"webFormatUrl": "https://i.pinimg.com/736x/6b/34/c7/6b34c71b11b9f2e04957577ff85e524b.jpg"
 		},
-		
-		{
+	 {
 
 
-			"user": "Salzburg vs Chelsea (ENG)",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-396937.m3u8?auth_key=1667417899-0-0-b415ba2b2841ee1c766647a096fd4a41",
+			"user": "Shakhtar Donetsk vs RB Leipzig SD",
+			"pageUrl": "http://www.techsolpoint.com/fetch-json-data-using-volley-library-and-display-it-in-recyclerview%E2%80%8A-android-studio.html",
 			"type": "UEFA Champions League ⚽️ ",
-			"webFormatUrl": "https://1.bp.blogspot.com/-aqbEPSi6fBs/YQlhDOFZRYI/AAAAAAADKdo/C7YepMYAQcMzC2vwW-r8i5n2mLIQosXWACNcBGAsYHQ/s1000/uefa-champions.league-21-22-logo%2B%25282%2529.jpg"
+			"webFormatUrl": "https://i.pinimg.com/736x/6b/34/c7/6b34c71b11b9f2e04957577ff85e524b.jpg"
 		},
-		
-		{
+	 {
 
 
-			"user": "Sevilla vs København SD",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-492306.m3u8?auth_key=1666558757-0-0-4068f178854fbe24f438478e2592299c",
+			"user": "Shakhtar Donetsk vs RB Leipzig HD",
+			"pageUrl": "http://www.techsolpoint.com/fetch-json-data-using-volley-library-and-display-it-in-recyclerview%E2%80%8A-android-studio.html",
 			"type": "UEFA Champions League ⚽️ ",
-			"webFormatUrl": "https://1.bp.blogspot.com/-aqbEPSi6fBs/YQlhDOFZRYI/AAAAAAADKdo/C7YepMYAQcMzC2vwW-r8i5n2mLIQosXWACNcBGAsYHQ/s1000/uefa-champions.league-21-22-logo%2B%25282%2529.jpg"
+			"webFormatUrl": "https://i.pinimg.com/736x/6b/34/c7/6b34c71b11b9f2e04957577ff85e524b.jpg"
 		},
-		
-		
+	 {
 
+
+			"user": "Chelsea vs Dinamo Zagreb SD",
+			"pageUrl": "http://www.techsolpoint.com/fetch-json-data-using-volley-library-and-display-it-in-recyclerview%E2%80%8A-android-studio.html",
+			"type": "UEFA Champions League ⚽️ ",
+			"webFormatUrl": "https://i.pinimg.com/736x/6b/34/c7/6b34c71b11b9f2e04957577ff85e524b.jpg"
+		},
+	 {
+
+
+			"user": "Chelsea vs Dinamo Zagreb HD",
+			"pageUrl": "http://www.techsolpoint.com/fetch-json-data-using-volley-library-and-display-it-in-recyclerview%E2%80%8A-android-studio.html",
+			"type": "UEFA Champions League ⚽️ ",
+			"webFormatUrl": "https://i.pinimg.com/736x/6b/34/c7/6b34c71b11b9f2e04957577ff85e524b.jpg"
+		},
+	  {
+
+
+			"user": "Chelsea vs Dinamo Zagreb HD (ENG)",
+			"pageUrl": "http://www.techsolpoint.com/fetch-json-data-using-volley-library-and-display-it-in-recyclerview%E2%80%8A-android-studio.html",
+			"type": "UEFA Champions League ⚽️ ",
+			"webFormatUrl": "https://i.pinimg.com/736x/6b/34/c7/6b34c71b11b9f2e04957577ff85e524b.jpg"
+		},
+	  {
+
+
+			"user": "Chelsea vs Dinamo Zagreb HD2 (ENG)",
+			"pageUrl": "http://www.techsolpoint.com/fetch-json-data-using-volley-library-and-display-it-in-recyclerview%E2%80%8A-android-studio.html",
+			"type": "UEFA Champions League ⚽️ ",
+			"webFormatUrl": "https://i.pinimg.com/736x/6b/34/c7/6b34c71b11b9f2e04957577ff85e524b.jpg"
+		},
+	 {
+
+
+			"user": "Milan vs Salzburg SD",
+			"pageUrl": "http://www.techsolpoint.com/fetch-json-data-using-volley-library-and-display-it-in-recyclerview%E2%80%8A-android-studio.html",
+			"type": "UEFA Champions League ⚽️ ",
+			"webFormatUrl": "https://i.pinimg.com/736x/6b/34/c7/6b34c71b11b9f2e04957577ff85e524b.jpg"
+		},
+	 {
+
+
+			"user": "Milan vs Salzburg HD",
+			"pageUrl": "http://www.techsolpoint.com/fetch-json-data-using-volley-library-and-display-it-in-recyclerview%E2%80%8A-android-studio.html",
+			"type": "UEFA Champions League ⚽️ ",
+			"webFormatUrl": "https://i.pinimg.com/736x/6b/34/c7/6b34c71b11b9f2e04957577ff85e524b.jpg"
+		},
+	 {
+
+
+			"user": "Manchester City vs Sevilla SD",
+			"pageUrl": "http://www.techsolpoint.com/fetch-json-data-using-volley-library-and-display-it-in-recyclerview%E2%80%8A-android-studio.html",
+			"type": "UEFA Champions League ⚽️ ",
+			"webFormatUrl": "https://i.pinimg.com/736x/6b/34/c7/6b34c71b11b9f2e04957577ff85e524b.jpg"
+		},
+	 {
+
+
+			"user": "Manchester City vs Sevilla HD",
+			"pageUrl": "http://www.techsolpoint.com/fetch-json-data-using-volley-library-and-display-it-in-recyclerview%E2%80%8A-android-studio.html",
+			"type": "UEFA Champions League ⚽️ ",
+			"webFormatUrl": "https://i.pinimg.com/736x/6b/34/c7/6b34c71b11b9f2e04957577ff85e524b.jpg"
+		},
+	  {
+
+
+			"user": "Manchester City vs Sevilla HD (ENG)",
+			"pageUrl": "http://www.techsolpoint.com/fetch-json-data-using-volley-library-and-display-it-in-recyclerview%E2%80%8A-android-studio.html",
+			"type": "UEFA Champions League ⚽️ ",
+			"webFormatUrl": "https://i.pinimg.com/736x/6b/34/c7/6b34c71b11b9f2e04957577ff85e524b.jpg"
+		},
+	  {
+
+
+			"user": "Manchester City vs Sevilla HD2 (ENG)",
+			"pageUrl": "http://www.techsolpoint.com/fetch-json-data-using-volley-library-and-display-it-in-recyclerview%E2%80%8A-android-studio.html",
+			"type": "UEFA Champions League ⚽️ ",
+			"webFormatUrl": "https://i.pinimg.com/736x/6b/34/c7/6b34c71b11b9f2e04957577ff85e524b.jpg"
+		},
+	  {
+
+
+			"user": "Juventus vs PSG SD",
+			"pageUrl": "http://www.techsolpoint.com/fetch-json-data-using-volley-library-and-display-it-in-recyclerview%E2%80%8A-android-studio.html",
+			"type": "UEFA Champions League ⚽️ ",
+			"webFormatUrl": "https://i.pinimg.com/736x/6b/34/c7/6b34c71b11b9f2e04957577ff85e524b.jpg"
+		},
+	  {
+
+
+			"user": "Juventus vs PSG HD1",
+			"pageUrl": "http://www.techsolpoint.com/fetch-json-data-using-volley-library-and-display-it-in-recyclerview%E2%80%8A-android-studio.html",
+			"type": "UEFA Champions League ⚽️ ",
+			"webFormatUrl": "https://i.pinimg.com/736x/6b/34/c7/6b34c71b11b9f2e04957577ff85e524b.jpg"
+		},
+	   {
+
+
+			"user": "Juventus vs PSG HD2",
+			"pageUrl": "http://www.techsolpoint.com/fetch-json-data-using-volley-library-and-display-it-in-recyclerview%E2%80%8A-android-studio.html",
+			"type": "UEFA Champions League ⚽️ ",
+			"webFormatUrl": "https://i.pinimg.com/736x/6b/34/c7/6b34c71b11b9f2e04957577ff85e524b.jpg"
+		},
+	  {
+
+
+			"user": "København vs Borussia Dortmund SD",
+			"pageUrl": "http://www.techsolpoint.com/fetch-json-data-using-volley-library-and-display-it-in-recyclerview%E2%80%8A-android-studio.html",
+			"type": "UEFA Champions League ⚽️ ",
+			"webFormatUrl": "https://i.pinimg.com/736x/6b/34/c7/6b34c71b11b9f2e04957577ff85e524b.jpg"
+		},
+		  {
+
+
+			"user": "København vs Borussia Dortmund HD",
+			"pageUrl": "http://www.techsolpoint.com/fetch-json-data-using-volley-library-and-display-it-in-recyclerview%E2%80%8A-android-studio.html",
+			"type": "UEFA Champions League ⚽️ ",
+			"webFormatUrl": "https://i.pinimg.com/736x/6b/34/c7/6b34c71b11b9f2e04957577ff85e524b.jpg"
+		},
+	 	  {
+
+
+			"user": "Maccabi Haifa vs Benfica SD",
+			"pageUrl": "http://www.techsolpoint.com/fetch-json-data-using-volley-library-and-display-it-in-recyclerview%E2%80%8A-android-studio.html",
+			"type": "UEFA Champions League ⚽️ ",
+			"webFormatUrl": "https://i.pinimg.com/736x/6b/34/c7/6b34c71b11b9f2e04957577ff85e524b.jpg"
+		},
+	 	  {
+
+
+			"user": "Maccabi Haifa vs Benfica SD",
+			"pageUrl": "http://www.techsolpoint.com/fetch-json-data-using-volley-library-and-display-it-in-recyclerview%E2%80%8A-android-studio.html",
+			"type": "UEFA Champions League ⚽️ ",
+			"webFormatUrl": "https://i.pinimg.com/736x/6b/34/c7/6b34c71b11b9f2e04957577ff85e524b.jpg"
+		},
 {
 
 			"user": "PTV SPORTS",
