@@ -3,159 +3,105 @@
  "hits" : [
 
 
-		 {
+	  {
 
-
-			"user": "Chelsea vs Dinamo Zagreb SD",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-238362.m3u8?auth_key=1667439679-0-0-782b05de11db0a0587b95d6673254e41",
-			"type": "UEFA Champions League ⚽️ ",
-			"webFormatUrl": "https://1.bp.blogspot.com/-aqbEPSi6fBs/YQlhDOFZRYI/AAAAAAADKdo/C7YepMYAQcMzC2vwW-r8i5n2mLIQosXWACNcBGAsYHQ/s1000/uefa-champions.league-21-22-logo%2B%25282%2529.jpg"
-		},
-	 {
-
-
-			"user": "Chelsea vs Dinamo Zagreb HD",
-			"pageUrl": "https://moon.meta-scores.com/8ed843307d/8ed843307d@720p.m3u8",
-			"type": "UEFA Champions League ⚽️ ",
-			"webFormatUrl": "https://1.bp.blogspot.com/-aqbEPSi6fBs/YQlhDOFZRYI/AAAAAAADKdo/C7YepMYAQcMzC2vwW-r8i5n2mLIQosXWACNcBGAsYHQ/s1000/uefa-champions.league-21-22-logo%2B%25282%2529.jpg"
+			"user": "Arsenal vs Zürich SD",
+			"pageUrl": "https://yypull.gdsth.com/live/stream-232996.m3u8?auth_key=1667526379-0-0-41cbf0ca843728775d3c2d0453074717",
+			"type": "UEFA Europa League ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
 		},
 	  {
 
+			"user": "Arsenal vs Zürich HD (ENG)",
+			"pageUrl": "http://gyuunn.azureedge.net/scripts/NjAxNw==/1080p.m3u8 ",
+			"type": "UEFA Europa League ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
+		},
+	   {
 
-			"user": "Chelsea vs Dinamo Zagreb HD (ENG)",
-			"pageUrl": "http://divine.ddns.me:8080/live/2oiazsCf5E/ZOSwbDzk2D/2000.ts",
-			"type": "UEFA Champions League ⚽️ ",
-			"webFormatUrl": "https://1.bp.blogspot.com/-aqbEPSi6fBs/YQlhDOFZRYI/AAAAAAADKdo/C7YepMYAQcMzC2vwW-r8i5n2mLIQosXWACNcBGAsYHQ/s1000/uefa-champions.league-21-22-logo%2B%25282%2529.jpg"
+			"user": "Arsenal vs Zürich HD2 (ENG)",
+			"pageUrl": "http://cvvvbn.azureedge.net/scripts/NjAxNw==/1080p.m3u8",
+			"type": "UEFA Europa League ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
 		},
 	  {
 
-
-			"user": "Chelsea vs Dinamo Zagreb HD2 (ENG)",
-			"pageUrl": "http://gyuunn.azureedge.net/scripts/NTk5NQ==/1080p.m3u8",
-			"type": "UEFA Champions League ⚽️ ",
-			"webFormatUrl": "https://1.bp.blogspot.com/-aqbEPSi6fBs/YQlhDOFZRYI/AAAAAAADKdo/C7YepMYAQcMzC2vwW-r8i5n2mLIQosXWACNcBGAsYHQ/s1000/uefa-champions.league-21-22-logo%2B%25282%2529.jpg"
-		},
-	 {
-
-
-			"user": "Milan vs Salzburg SD",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-330076.m3u8?auth_key=1667439559-0-0-7319a41f8f3eeb84ed8100872ff2187c",
-			"type": "UEFA Champions League ⚽️ ",
-			"webFormatUrl": "https://1.bp.blogspot.com/-aqbEPSi6fBs/YQlhDOFZRYI/AAAAAAADKdo/C7YepMYAQcMzC2vwW-r8i5n2mLIQosXWACNcBGAsYHQ/s1000/uefa-champions.league-21-22-logo%2B%25282%2529.jpg"
-		},
-	 {
-
-
-			"user": "Milan vs Salzburg HD",
-			"pageUrl": "http://divine.ddns.me:8080/live/2oiazsCf5E/ZOSwbDzk2D/1998.ts",
-			"type": "UEFA Champions League ⚽️ ",
-			"webFormatUrl": "https://1.bp.blogspot.com/-aqbEPSi6fBs/YQlhDOFZRYI/AAAAAAADKdo/C7YepMYAQcMzC2vwW-r8i5n2mLIQosXWACNcBGAsYHQ/s1000/uefa-champions.league-21-22-logo%2B%25282%2529.jpg"
-		},
-	 {
-
-
-			"user": "Milan vs Salzburg HD2",
-			"pageUrl": "https://moon.meta-scores.com/7957e250a0/7957e250a0@720p.m3u8",
-			"type": "UEFA Champions League ⚽️ ",
-			"webFormatUrl": "https://1.bp.blogspot.com/-aqbEPSi6fBs/YQlhDOFZRYI/AAAAAAADKdo/C7YepMYAQcMzC2vwW-r8i5n2mLIQosXWACNcBGAsYHQ/s1000/uefa-champions.league-21-22-logo%2B%25282%2529.jpg"
-		},
-	 {
-
-
-			"user": "Manchester City vs Sevilla SD",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-411882.m3u8?auth_key=1667439499-0-0-35ace4ed9bc26ef82bc7cc98f92c244c",
-			"type": "UEFA Champions League ⚽️ ",
-			"webFormatUrl": "https://1.bp.blogspot.com/-aqbEPSi6fBs/YQlhDOFZRYI/AAAAAAADKdo/C7YepMYAQcMzC2vwW-r8i5n2mLIQosXWACNcBGAsYHQ/s1000/uefa-champions.league-21-22-logo%2B%25282%2529.jpg"
-		},
-	 {
-
-
-			"user": "Manchester City vs Sevilla HD",
-			"pageUrl": "https://moon.meta-scores.com/1b0182d5e0/1b0182d5e0@720p.m3u8",
-			"type": "UEFA Champions League ⚽️ ",
-			"webFormatUrl": "https://1.bp.blogspot.com/-aqbEPSi6fBs/YQlhDOFZRYI/AAAAAAADKdo/C7YepMYAQcMzC2vwW-r8i5n2mLIQosXWACNcBGAsYHQ/s1000/uefa-champions.league-21-22-logo%2B%25282%2529.jpg"
+			"user": "Dynamo Kyiv vs Fenerbahçe",
+			"pageUrl": "https://yypull.gdsth.com/live/stream-231411.m3u8?auth_key=1667526439-0-0-b51a0c50117358ad63443c4cf9336704 ",
+			"type": "UEFA Europa League ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
 		},
 	  {
 
+			"user": "Roma vs Ludogorets",
+			"pageUrl": "https://yypull.gdsth.com/live/stream-3045619.m3u8?auth_key=1667526199-0-0-3f1a8e321f36064c354b2eb789bfb623 ",
+			"type": "UEFA Europa League ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
+		},
+	  {
 
-			"user": "Manchester City vs Sevilla HD (ENG)",
+			"user": "Bodø / Glimt vs PSV",
+			"pageUrl": "https://yypull.gdsth.com/live/stream-552369.m3u8?auth_key=1667526139-0-0-93640e06eb8bc003ec56fd596a85d784",
+			"type": "UEFA Europa League ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
+		},
+	  {
+
+			"user": "Rennes vs AEK Larnaca",
+			"pageUrl": "https://yypull.gdsth.com/live/stream-494765.m3u8?auth_key=1667518279-0-0-89474729cc39815849cacd96c3b64af3 ",
+			"type": "UEFA Europa League ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
+		},
+	  {
+
+			"user": "Real Betis vs HJK",
+			"pageUrl": "https://yypull.gdsth.com/live/stream-309440.m3u8?auth_key=1667526199-0-0-40c5a3d991074d333fd43135dd7fffe4 ",
+			"type": "UEFA Europa League ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
+		},
+	  {
+
+			"user": "Union Saint-Gilloise vs Union Berlin",
+			"pageUrl": "https://yypull.gdsth.com/live/stream-317957.m3u8?auth_key=1667526679-0-0-bf73d66f0b039aede974f73963fd7c8a ",
+			"type": "UEFA Europa League ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
+		},
+	  {
+
+			"user": "Sporting Braga vs Malmö FF",
+			"pageUrl": "https://yypull.gdsth.com/live/stream-482183.m3u8?auth_key=1667526319-0-0-1a40cd20d4690ab6f509b3d46d98b978 ",
+			"type": "UEFA Europa League ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
+		},
+	  {
+
+			"user": "FCSB vs West Ham United",
+			"pageUrl": "https://yypull.gdsth.com/live/stream-482760.m3u8?auth_key=1667527159-0-0-833d4c3be3a8fc0e5770d62ee322ef48",
+			"type": "UEFA Europa Conference League ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/UEFA_Europa_Conference_League.svg/1200px-UEFA_Europa_Conference_League.svg.png"
+		},
+ {
+
+			"user": "FCSB vs West Ham United (ENG)",
 			"pageUrl": "http://divine.ddns.me:8080/live/2oiazsCf5E/ZOSwbDzk2D/1999.ts",
-			"type": "UEFA Champions League ⚽️ ",
-			"webFormatUrl": "https://1.bp.blogspot.com/-aqbEPSi6fBs/YQlhDOFZRYI/AAAAAAADKdo/C7YepMYAQcMzC2vwW-r8i5n2mLIQosXWACNcBGAsYHQ/s1000/uefa-champions.league-21-22-logo%2B%25282%2529.jpg"
+			"type": "UEFA Europa Conference League ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/UEFA_Europa_Conference_League.svg/1200px-UEFA_Europa_Conference_League.svg.png"
 		},
-	  {
+	 {
 
-
-			"user": "Manchester City vs Sevilla HD2 (ENG)",
-			"pageUrl": "http://cvvvbn.azureedge.net/scripts/NTk5Nw==/1080p.m3u8",
-			"type": "UEFA Champions League ⚽️ ",
-			"webFormatUrl": "https://1.bp.blogspot.com/-aqbEPSi6fBs/YQlhDOFZRYI/AAAAAAADKdo/C7YepMYAQcMzC2vwW-r8i5n2mLIQosXWACNcBGAsYHQ/s1000/uefa-champions.league-21-22-logo%2B%25282%2529.jpg"
+			"user": "Köln vs Nice",
+			"pageUrl": "https://yypull.gdsth.com/live/stream-557735.m3u8?auth_key=1667525839-0-0-0a50b722aa680fcee18f90a9238cfde3",
+			"type": "UEFA Europa Conference League ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/UEFA_Europa_Conference_League.svg/1200px-UEFA_Europa_Conference_League.svg.png"
 		},
-	  {
+	 {
 
-
-			"user": "Juventus vs PSG SD",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-482183.m3u8?auth_key=1667439619-0-0-1d312f70d4c31b74847de9983a4c672a",
-			"type": "UEFA Champions League ⚽️ ",
-			"webFormatUrl": "https://1.bp.blogspot.com/-aqbEPSi6fBs/YQlhDOFZRYI/AAAAAAADKdo/C7YepMYAQcMzC2vwW-r8i5n2mLIQosXWACNcBGAsYHQ/s1000/uefa-champions.league-21-22-logo%2B%25282%2529.jpg"
+			"user": "Lech Poznań vs Villarreal",
+			"pageUrl": "https://yypull.gdsth.com/live/stream-238362.m3u8?auth_key=1667518099-0-0-c3e79071fdd397280d56e6b967395782",
+			"type": "UEFA Europa Conference League ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/UEFA_Europa_Conference_League.svg/1200px-UEFA_Europa_Conference_League.svg.png"
 		},
-	  {
-
-
-			"user": "Juventus vs PSG HD1",
-			"pageUrl": "http://cvvvbn.azureedge.net/scripts/NTk5OA==/1080p.m3u8",
-			"type": "UEFA Champions League ⚽️ ",
-			"webFormatUrl": "https://1.bp.blogspot.com/-aqbEPSi6fBs/YQlhDOFZRYI/AAAAAAADKdo/C7YepMYAQcMzC2vwW-r8i5n2mLIQosXWACNcBGAsYHQ/s1000/uefa-champions.league-21-22-logo%2B%25282%2529.jpg"
-		},
-	   {
-
-
-			"user": "Juventus vs PSG HD2",
-			"pageUrl": "https://moon.meta-scores.com/0a6c5304c4/0a6c5304c4@720p.m3u8",
-			"type": "UEFA Champions League ⚽️ ",
-			"webFormatUrl": "https://1.bp.blogspot.com/-aqbEPSi6fBs/YQlhDOFZRYI/AAAAAAADKdo/C7YepMYAQcMzC2vwW-r8i5n2mLIQosXWACNcBGAsYHQ/s1000/uefa-champions.league-21-22-logo%2B%25282%2529.jpg"
-		},
-
-	   {
-
-
-			"user": "Juventus vs PSG HD3",
-			"pageUrl": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may10SD/chunklist.m3u8",
-			"type": "UEFA Champions League ⚽️ ",
-			"webFormatUrl": "https://1.bp.blogspot.com/-aqbEPSi6fBs/YQlhDOFZRYI/AAAAAAADKdo/C7YepMYAQcMzC2vwW-r8i5n2mLIQosXWACNcBGAsYHQ/s1000/uefa-champions.league-21-22-logo%2B%25282%2529.jpg"
-		},
-	  {
-
-
-			"user": "København vs Borussia Dortmund SD",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-232996.m3u8?auth_key=1667439559-0-0-ea773c9cf34854feba7c1beace6f8855",
-			"type": "UEFA Champions League ⚽️ ",
-			"webFormatUrl": "https://1.bp.blogspot.com/-aqbEPSi6fBs/YQlhDOFZRYI/AAAAAAADKdo/C7YepMYAQcMzC2vwW-r8i5n2mLIQosXWACNcBGAsYHQ/s1000/uefa-champions.league-21-22-logo%2B%25282%2529.jpg"
-		},
-		  {
-
-
-			"user": "København vs Borussia Dortmund HD",
-			"pageUrl": "https://moon.meta-scores.com/7f287a2752/7f287a2752@720p.m3u8",
-			"type": "UEFA Champions League ⚽️ ",
-			"webFormatUrl": "https://1.bp.blogspot.com/-aqbEPSi6fBs/YQlhDOFZRYI/AAAAAAADKdo/C7YepMYAQcMzC2vwW-r8i5n2mLIQosXWACNcBGAsYHQ/s1000/uefa-champions.league-21-22-logo%2B%25282%2529.jpg"
-		},
-	 	  {
-
-
-			"user": "Maccabi Haifa vs Benfica SD",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-348285.m3u8?auth_key=1667439679-0-0-d295034855d168f38889fdde39b5d5f2",
-			"type": "UEFA Champions League ⚽️ ",
-			"webFormatUrl": "https://1.bp.blogspot.com/-aqbEPSi6fBs/YQlhDOFZRYI/AAAAAAADKdo/C7YepMYAQcMzC2vwW-r8i5n2mLIQosXWACNcBGAsYHQ/s1000/uefa-champions.league-21-22-logo%2B%25282%2529.jpg"
-		},
-	 	  {
-
-
-			"user": "Maccabi Haifa vs Benfica SD",
-			"pageUrl": "https://179286952.global.cdnfastest.com/live/1-3808672-0/chunklist_w2025179101.m3u8",
-			"type": "UEFA Champions League ⚽️ ",
-			"webFormatUrl": "https://1.bp.blogspot.com/-aqbEPSi6fBs/YQlhDOFZRYI/AAAAAAADKdo/C7YepMYAQcMzC2vwW-r8i5n2mLIQosXWACNcBGAsYHQ/s1000/uefa-champions.league-21-22-logo%2B%25282%2529.jpg"
-		},
+	
 {
 
 			"user": "PTV SPORTS",
