@@ -15,11 +15,19 @@
 		},
 		{
 
-			"user": "Switzerland vs Cameroon SD (ENG)       🔴",
+			"user": "Switzerland vs Cameroon SD1 (ENG)       🔴",
+			"pageUrl": "https://raw.githubusercontent.com/tvbolaonline98/sopporot/main/Ts2.m3u8",
+			"type": "FIFA World Cup ⚽️ ",
+			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
+		},
+	{
+
+			"user": "Switzerland vs Cameroon SD2 (ENG)       🔴",
 			"pageUrl": "https://griomreavigremant654.s3.amazonaws.com/redzone2_480p30.m3u8",
 			"type": "FIFA World Cup ⚽️ ",
 			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
 		},
+
 		{
 
 			"user": "Switzerland vs Cameroon HD (ENG)        🔴 ",
