@@ -12,12 +12,25 @@
 		
 		{
 
+			"user": "Tunisia vs France SD (ENG) ",
+			"pageUrl": "https://k41hedlund.s3.amazonaws.com/tsn_480p30.m3u8",
+			"type": "FIFA World Cup ⚽️ ",
+			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
+		},
+		{
+
 			"user": "Tunisia vs France HD (ENG)   ",
 			"pageUrl": "https://playing.tunnelcdnsw.net/live/fs1us_720p/index.m3u8",
 			"type": "FIFA World Cup ⚽️ ",
 			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
 		},
-		
+		{
+
+			"user": "Tunisia vs France HD2 (ENG)   ",
+			"pageUrl": "https://wswanata.azureedge.net/live/FS1/chunks.m3u8",
+			"type": "FIFA World Cup ⚽️ ",
+			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
+		},
 		{
  
 			"user": "Tunisia vs France HD3   ",
